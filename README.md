@@ -1,0 +1,2 @@
+# firstrepo
+Tranning repository
